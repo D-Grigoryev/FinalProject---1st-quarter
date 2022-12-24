@@ -1,0 +1,15 @@
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/bin/Debug/net6.0/programm
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/bin/Debug/net6.0/programm.deps.json
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/bin/Debug/net6.0/programm.runtimeconfig.json
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/bin/Debug/net6.0/programm.dll
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/bin/Debug/net6.0/programm.pdb
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.csproj.AssemblyReference.cache
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.AssemblyInfoInputs.cache
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.AssemblyInfo.cs
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.csproj.CoreCompileInputs.cache
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.dll
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/refint/programm.dll
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.pdb
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/programm.genruntimeconfig.cache
+/Users/dmitriy/Documents/FinalProject---1st-quarter/programm/obj/Debug/net6.0/ref/programm.dll
